@@ -1,0 +1,7 @@
+#Sun Apr 02 15:05:14 CEST 2017
+base.0=/Volumes/User/Winterfeldt/AndroidStudioProjects/ArDrone/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9eedac045fd6c7fda2c132a80a534588b1bd39d7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Volumes/User/Winterfeldt/AndroidStudioProjects/ArDrone/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dc54398ac91fa78cbc395eedd1e3d05143892ca2/classes.dex
+base.1=/Volumes/User/Winterfeldt/AndroidStudioProjects/ArDrone/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dc54398ac91fa78cbc395eedd1e3d05143892ca2
+file.0=/Volumes/User/Winterfeldt/AndroidStudioProjects/ArDrone/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9eedac045fd6c7fda2c132a80a534588b1bd39d7/classes.dex
